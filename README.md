@@ -36,6 +36,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
+* **[Principal Site Reliability Engineer - Americas](https://jobs.ashbyhq.com/ashby/443ded5b-4baf-4bdc-8081-1666b4cb7ee3)** — ¤200,000 – ¤260,000 USD _(posted 2025-06-16)_
 * **[63177 Check Job](https://jobs.ashbyhq.com/reteam/71a2fa58-d779-4a83-9e9f-9f2fde81f20e)** — _n/a_ _(posted 2025-03-18)_
 * **[QA Engineer](https://jobs.ashbyhq.com/reteam/dc5ee2cf-2b95-4870-b5b7-6d6305be0146)** — ¤50,000 – ¤65,000 USD _(posted 2025-03-12)_
 * **[March 7, 2024 QA New Role!!!](https://jobs.ashbyhq.com/reteam/aa6b2818-f2e4-48f3-b1f9-041bd7556c84)** — _n/a_ _(posted 2025-03-12)_
@@ -198,10 +199,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Systems Safety Engineer](https://jobs.lever.co/reliable/c141557c-dde1-4bac-8fd3-eda89e7864d0)** — _n/a_ _(posted 2023-06-08)_
 * **[Systems Architect](https://jobs.lever.co/reliable/b2ead667-547f-4217-b892-835d22f5874d)** — _n/a_ _(posted 2023-06-05)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
-
-* **[Cyber Security Engineer IV](https://job-boards.greenhouse.io/regscale/jobs/4729920007)** — _n/a_ _(posted 2025-05-09)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/viospyvgzcygn6qca7le.webp" width="24" height="24" alt="RPS North America logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RPS North America](https://jobo.world/company/RPS-North-America)
 
 * **[Pennsylvania Quality Manager (Security)](https://logsite.wd12.myworkdayjobs.com/surefox/job/Remote---Pennsylvania/Pennsylvania-Quality-Manager--Security-_JR101323)** — _n/a_ _(posted 2025-01-27)_
@@ -290,4 +287,4 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Staff Security Engineer - Email](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Staff-Security-Engineer---Email_R16702-1)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-06-16_
+_Updated automatically — 2025-06-17_
