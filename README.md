@@ -71,7 +71,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
-* **[Sr. SDET - Cloud (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-SDET---Cloud--Remote--East-Coast-_R23568-1)** — _n/a_ _(posted 2025-06-17)_
 * **[SDET III - Flight Control (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III---Flight-Control--Remote-_R23305)** — _n/a_ _(posted 2025-05-27)_
 * **[Software Engineer III, Cloud SDET (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MD/Software-Engineer-III--Cloud-SDET--Remote--East-Coast-_R22933)** — _n/a_ _(posted 2025-04-15)_
 
@@ -112,6 +111,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
+* **[Senior Software Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Software-Engineer_R-378930)** — _n/a_ _(posted 2025-06-18)_
 * **[Quality Compliance Professional](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Kentucky/Quality-Compliance-Professional_R-377999)** — _n/a_ _(posted 2025-05-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0p2lkgyrsetxsdrpcp0.webp" width="24" height="24" alt="Interwell Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Interwell Health](https://jobo.world/company/Interwell-Health)
@@ -145,7 +145,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
-* **[Quality Assurance Specialist](https://job-boards.greenhouse.io/oklo/jobs/5558121004)** — _n/a_ _(posted 2025-06-06)_
 * **[Test Engineer](https://job-boards.greenhouse.io/oklo/jobs/5544852004)** — _n/a_ _(posted 2025-05-23)_
 * **[Mechanical Analyst Engineer](https://boards.greenhouse.io/oklo/jobs/4961080004)** — _n/a_ _(posted 2025-05-01)_
 
@@ -265,6 +264,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
+* **[Backend Senior Software Engineer, Test Experience](https://jobs.ashbyhq.com/vanta/ef407939-b6fd-46aa-8b14-e6cf0c805579)** — ¤179,000 – ¤211,000 USD _(posted 2025-06-19)_
 * **[Engineering Manager, Questionnaire Automation](https://jobs.ashbyhq.com/vanta/a10426d7-92a5-4338-93f3-052ee2e5f817)** — ¤207,000 – ¤244,000 USD _(posted 2025-05-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oy4ifsko5hdcqpdhykp4.webp" width="24" height="24" alt="Verra Mobility logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Verra Mobility](https://jobo.world/company/Verra-Mobility)
@@ -290,4 +290,4 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Staff Security Engineer - Email](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Staff-Security-Engineer---Email_R16702-1)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-06-19_
+_Updated automatically — 2025-06-20_
