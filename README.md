@@ -65,10 +65,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Solutions Engineer](https://job-boards.greenhouse.io/check/jobs/5555768004)** — _n/a_ _(posted 2025-06-03)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/brdmhjsjjbaststuliyr.webp" width="24" height="24" alt="Collectors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Collectors](https://jobo.world/company/Collectors)
-
-* **[Staff Software Engineer, Quality Transformation](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Staff-Software-Engineer--Quality-Transformation_PL591)** — _n/a_ _(posted 2025-06-20)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Director of Engineering, Sensor Quality (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Director-of-Engineering--Sensor-Quality--Remote-_R23641)** — _n/a_ _(posted 2025-06-24)_
@@ -77,6 +73,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/acwwybrxoozoyvddv6wy.webp" width="24" height="24" alt="CVS Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CVS Health](https://jobo.world/company/CVS-Health)
 
+* **[Health Care Quality Senior Manager](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/GA---Work-from-home/Health-Care-Quality-Senior-Manager_R0610612)** — _n/a_ _(posted 2025-06-26)_
 * **[Staff Quality Engineer](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/GA---Work-from-home/Staff-Quality-Engineer_R0623074)** — _n/a_ _(posted 2025-06-24)_
 * **[Sr. Manager Test COE](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/CT---Work-from-home/Sr-Manager-Test-COE_R0488520)** — _n/a_ _(posted 2025-03-18)_
 * **[IT Resiliency Testing Lead](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/CT---Work-from-home/IT-Resiliency-Testing-Lead_R0497458)** — _n/a_ _(posted 2025-02-17)_
@@ -135,10 +132,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Production Support Engineer](https://jobs.lever.co/makpar/3ed5c2cc-dfe2-4e5b-aee9-f0c1d78aae7a)** — _n/a_ _(posted 2024-09-20)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac9ek3cianx4jwsfjvd6.webp" width="24" height="24" alt="Marqeta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Marqeta](https://jobo.world/company/Marqeta)
-
-* **[Senior Engineering Manager, Developer Experience and Enablement](https://job-boards.greenhouse.io/mqreferrals/jobs/6894500)** — _n/a_ _(posted 2025-06-21)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Test Engineer](https://job-boards.greenhouse.io/oklo/jobs/5544852004)** — _n/a_ _(posted 2025-05-23)_
@@ -170,6 +163,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qp1uamkdt7aykfiliomk.webp" width="24" height="24" alt="Qualified.com logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Qualified.com](https://jobo.world/company/Qualified-Dotcom)
 
+* **[Senior Product Manager](https://jobs.ashbyhq.com/qualified/38417268-3c31-46e2-8402-3306d4ec1d8c)** — ¤160,000 – ¤190,000 USD _(posted 2025-06-27)_
 * **[Engineering Manager, Platform & Infrastructure](https://jobs.ashbyhq.com/qualified/492bbaf7-1f1f-4a1c-8595-baef82692743)** — ¤190,000 – ¤210,000 USD _(posted 2025-06-14)_
 * **[Staff Software Engineer, Platform & Infrastructure](https://jobs.ashbyhq.com/qualified/aca7afc8-ae96-4bf6-bf6c-13024c77cb12)** — ¤230,000 – ¤260,000 USD _(posted 2025-04-18)_
 
@@ -182,6 +176,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/adkfhiop5u2vlaw1xufg.webp" width="24" height="24" alt="Qventus logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Qventus](https://jobo.world/company/Qventus)
 
+* **[DevOps Manager](https://jobs.ashbyhq.com/qventus/f3d72679-53c9-46c4-a12a-004cf60daed0)** — _n/a_ _(posted 2025-06-27)_
 * **[Implementation Success Analyst](https://jobs.ashbyhq.com/qventus/92351aa2-517e-4906-87ed-a9df148b9ac6)** — _n/a_ _(posted 2025-05-01)_
 * **[Technical Product Architect](https://jobs.ashbyhq.com/qventus/9b02fe50-92da-4ebd-9b00-b417af151827)** — _n/a_ _(posted 2025-03-12)_
 
@@ -205,7 +200,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
 
 * **[IAM Quality Engineer](https://job-boards.greenhouse.io/rxsense/jobs/4567586005)** — _n/a_ _(posted 2025-05-22)_
-* **[Quality Engineering Manager](https://job-boards.greenhouse.io/rxsense/jobs/4567582005)** — _n/a_ _(posted 2025-05-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxxhtbeehm6paq1tiic8.webp" width="24" height="24" alt="Semtech logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Semtech](https://jobo.world/company/Semtech)
 
@@ -287,4 +281,4 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Clinical QA analyst (contract) ](https://jobs.ashbyhq.com/writer/28a957fc-4ee9-414e-b5e4-601ae9dd29fe)** — _n/a_ _(posted 2025-06-25)_
 
 ---
-_Updated automatically — 2025-06-27_
+_Updated automatically — 2025-06-28_
