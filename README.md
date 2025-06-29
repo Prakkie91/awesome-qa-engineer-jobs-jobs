@@ -41,6 +41,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
 * **[Principal Site Reliability Engineer - Americas](https://jobs.ashbyhq.com/ashby/443ded5b-4baf-4bdc-8081-1666b4cb7ee3)** — ¤200,000 – ¤260,000 USD _(posted 2025-06-16)_
+* **[Naukri Test Job](https://jobs.ashbyhq.com/reteam/73a7fa3f-8475-4c48-b4a7-48045bc7743f)** — ¤1 – ¤100 USD _(posted 2025-03-21)_
 * **[63177 Check Job](https://jobs.ashbyhq.com/reteam/71a2fa58-d779-4a83-9e9f-9f2fde81f20e)** — ¤75,000 – ¤100,000 USD _(posted 2025-03-18)_
 * **[QA Engineer](https://jobs.ashbyhq.com/reteam/dc5ee2cf-2b95-4870-b5b7-6d6305be0146)** — ¤50,000 – ¤65,000 USD _(posted 2025-03-12)_
 * **[March 7, 2024 QA New Role!!!](https://jobs.ashbyhq.com/reteam/aa6b2818-f2e4-48f3-b1f9-041bd7556c84)** — _n/a_ _(posted 2025-03-12)_
@@ -78,9 +79,9 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Sr. Manager Test COE](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/CT---Work-from-home/Sr-Manager-Test-COE_R0488520)** — _n/a_ _(posted 2025-03-18)_
 * **[IT Resiliency Testing Lead](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/CT---Work-from-home/IT-Resiliency-Testing-Lead_R0497458)** — _n/a_ _(posted 2025-02-17)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hhxddnjrgxxnf3kqq2cn.webp" width="24" height="24" alt="Ethos Life logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ethos Life](https://jobo.world/company/EthosLife)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
 
-* **[Agent Quality Manager](https://boards.greenhouse.io/ethoslife/jobs/7815223002)** — _n/a_ _(posted 2025-03-14)_
+* **[Director of Quality](https://jobs.ashbyhq.com/dandy/6236309e-8644-4aaa-8488-cdea754b54ae)** — ¤177,600 – ¤222,000 USD _(posted 2025-06-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
@@ -89,6 +90,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
 
+* **[Sr. ASIC Design Verification Engineer](https://job-boards.greenhouse.io/groq/jobs/6623938003)** — _n/a_ _(posted 2025-06-28)_
 * **[Senior Staff ASIC Design Verification Engineer](https://job-boards.greenhouse.io/groq/jobs/5928114003)** — _n/a_ _(posted 2025-05-21)_
 * **[Post Silicon Validation Engineer](https://job-boards.greenhouse.io/groq/jobs/5979427003)** — _n/a_ _(posted 2025-05-21)_
 * **[Senior Staff Electrical Component Engineer](https://job-boards.greenhouse.io/groq/jobs/6561598003)** — _n/a_ _(posted 2025-05-21)_
@@ -132,6 +134,10 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Production Support Engineer](https://jobs.lever.co/makpar/3ed5c2cc-dfe2-4e5b-aee9-f0c1d78aae7a)** — _n/a_ _(posted 2024-09-20)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac9ek3cianx4jwsfjvd6.webp" width="24" height="24" alt="Marqeta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Marqeta](https://jobo.world/company/Marqeta)
+
+* **[Senior Engineering Manager, Developer Experience and Enablement](https://job-boards.greenhouse.io/mqreferrals/jobs/6894500)** — _n/a_ _(posted 2025-06-21)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Test Engineer](https://job-boards.greenhouse.io/oklo/jobs/5544852004)** — _n/a_ _(posted 2025-05-23)_
@@ -144,10 +150,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Owens & Minor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Owens & Minor](https://jobo.world/company/Owens-Minor)
 
 * **[Quality Engineer](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Remote---Tennessee/Quality-Engineer_REQ_25_25870)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
-
-* **[Sr Salesforce Test Automation Engineer](https://job-boards.greenhouse.io/patientpoint/jobs/4575212005)** — _n/a_ _(posted 2025-06-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wnpvtpdgwe6vnjf701sp.webp" width="24" height="24" alt="PerformYard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PerformYard](https://jobo.world/company/PerformYard)
 
@@ -177,7 +179,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/adkfhiop5u2vlaw1xufg.webp" width="24" height="24" alt="Qventus logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Qventus](https://jobo.world/company/Qventus)
 
 * **[DevOps Manager](https://jobs.ashbyhq.com/qventus/f3d72679-53c9-46c4-a12a-004cf60daed0)** — _n/a_ _(posted 2025-06-27)_
-* **[Implementation Success Analyst](https://jobs.ashbyhq.com/qventus/92351aa2-517e-4906-87ed-a9df148b9ac6)** — _n/a_ _(posted 2025-05-01)_
 * **[Technical Product Architect](https://jobs.ashbyhq.com/qventus/9b02fe50-92da-4ebd-9b00-b417af151827)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
@@ -221,7 +222,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w4ks1qx6ryiurq7yzq6z.webp" width="24" height="24" alt="Swish Analytics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Swish Analytics](https://jobo.world/company/SwishAnalytics)
 
 * **[AWS Cloud Security Engineer](https://job-boards.greenhouse.io/swishanalytics/jobs/4557769005)** — ¤110,000 – ¤145,000 USD _(posted 2025-04-30)_
-* **[QA Staff Engineer](https://job-boards.greenhouse.io/swishanalytics/jobs/4557703005)** — ¤120,000 – ¤170,000 USD _(posted 2025-04-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
@@ -281,4 +281,4 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Clinical QA analyst (contract) ](https://jobs.ashbyhq.com/writer/28a957fc-4ee9-414e-b5e4-601ae9dd29fe)** — _n/a_ _(posted 2025-06-25)_
 
 ---
-_Updated automatically — 2025-06-28_
+_Updated automatically — 2025-06-29_
