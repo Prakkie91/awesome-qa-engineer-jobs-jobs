@@ -48,12 +48,15 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ufu9ybmv5kierbneyd6z.webp" width="24" height="24" alt="Axsome Therapeutics Inc logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Axsome Therapeutics Inc](https://jobo.world/company/Axsome-Therapeutics-Inc)
 
 * **[Contract, Quality Assurance – Computer System Validation (QA CSV)](https://ptcbio.wd5.myworkdayjobs.com/ptc_careers/job/Remote-United-States/Contractor--Quality-Assurance---Computer-System-Validation--QA-CSV-_R3591)** — _n/a_ _(posted 2025-06-24)_
-* **[Manager, Quality Assurance - GxP (GCP Auditing) Remote](https://ptcbio.wd5.myworkdayjobs.com/ptc_careers/job/Remote-United-States/Manager--Quality-Assurance---GxP--GCP-Auditing--Remote_R3576)** — _n/a_ _(posted 2025-06-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/stsgjszd0fyq1amxk6x2.webp" width="24" height="24" alt="Blank Street logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Blank Street](https://jobo.world/company/Blank-Street)
 
 * **[Claims Quality Analyst, NY](https://apply.workable.com/dane-street-llc/j/1AA028D41D/)** — _n/a_ _(posted 2025-06-30)_
 * **[Physician Advisory Services QA Specialist](https://apply.workable.com/dane-street-llc/j/E52C8F6460/)** — _n/a_ _(posted 2025-05-20)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
+
+* **[Sr. Quality Assurance Analyst](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Sr-Quality-Assurance-Analyst_JR10637)** — _n/a_ _(posted 2025-07-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zlyfrzlluxtmgc1yozvk.webp" width="24" height="24" alt="Check logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Check](https://jobo.world/company/Check)
 
@@ -201,10 +204,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Security Engineer](https://apply.workable.com/resource-innovations/j/9010A86C2A/)** — ¤100,000 – ¤100,000 USD _(posted 2025-06-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hqzwsmenscskpexh3evu.webp" width="24" height="24" alt="Ro logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ro](https://jobo.world/company/Ro)
-
-* **[Manager, Corporate Quality (Post-Market / External Quality)](https://jobs.lever.co/ro/03784f22-505f-4df4-bed0-5d10c987282d)** — _n/a_ _(posted 2025-04-18)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/viospyvgzcygn6qca7le.webp" width="24" height="24" alt="RPS North America logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RPS North America](https://jobo.world/company/RPS-North-America)
 
 * **[Pennsylvania Quality Manager (Security)](https://logsite.wd12.myworkdayjobs.com/surefox/job/Remote---Pennsylvania/Pennsylvania-Quality-Manager--Security-_JR101323)** — _n/a_ _(posted 2025-01-27)_
@@ -252,6 +251,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
+* **[Director, Quality – Digital Systems](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Indiana-USA/Director--Quality---Digital-Systems_R-01322096)** — _n/a_ _(posted 2025-07-10)_
 * **[QA Auditor](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/QA-Auditor_R-01322775)** — _n/a_ _(posted 2025-07-02)_
 * **[Senior System Analyst](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Senior-System-Analyst_R-01322098)** — _n/a_ _(posted 2025-06-25)_
 * **[Qualitative COA Lead](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Maryland-USA/Qualitative-COA-Lead_R-01318101)** — _n/a_ _(posted 2025-05-20)_
@@ -296,4 +296,4 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Clinical QA analyst (contract) ](https://jobs.ashbyhq.com/writer/28a957fc-4ee9-414e-b5e4-601ae9dd29fe)** — _n/a_ _(posted 2025-06-25)_
 
 ---
-_Updated automatically — 2025-07-11_
+_Updated automatically — 2025-07-12_
