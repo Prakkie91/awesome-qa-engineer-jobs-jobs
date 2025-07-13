@@ -64,6 +64,8 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr Engineer - Cloud SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Engineer---Cloud-SDET--Remote-_R23879)** — _n/a_ _(posted 2025-07-11)_
+* **[SDET III, Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III--Windows-Sensor--Remote-_R23865)** — _n/a_ _(posted 2025-07-11)_
 * **[Sr. Engineer - Front End SDET (Remote, PST)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Engineer---Front-End-SDET--Remote--PST-_R23836)** — _n/a_ _(posted 2025-07-09)_
 * **[Sr. Sensor SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Sensor-SDET--Remote-_R23760)** — _n/a_ _(posted 2025-07-07)_
 * **[Director of Engineering, Sensor Quality (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Director-of-Engineering--Sensor-Quality--Remote-_R23641)** — _n/a_ _(posted 2025-06-24)_
@@ -73,15 +75,15 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[QA Testing & UX Research](https://jobs.ashbyhq.com/elevenlabs/5a4ff3e0-417d-4013-a78f-85849537f048)** — _n/a_ _(posted 2025-07-10)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pu4qh0i5onxf33cza17v.webp" width="24" height="24" alt="Fetch logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fetch](https://jobo.world/company/FetchRewards)
-
-* **[Staff SDET Engineer](https://job-boards.greenhouse.io/fetchrewards/jobs/6626013003)** — _n/a_ _(posted 2025-07-01)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
 * **[Senior Quality Engineer, Consumer Solutions](https://jobs.lever.co/goodleap/397ef304-d0b0-45c0-9d7f-3e4f0529389f)** — _n/a_ _(posted 2025-07-03)_
 * **[Senior Quality Engineer, Payments](https://jobs.lever.co/goodleap/8e93e30a-9f33-4626-b684-97b686204dc1)** — _n/a_ _(posted 2025-06-10)_
 * **[Site Reliability Engineer](https://jobs.lever.co/goodleap/82480296-d5a3-4569-9de3-b04ca63c351f)** — _n/a_ _(posted 2025-05-05)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o38lh0joyi8xi3irlknt.webp" width="24" height="24" alt="Gravie logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Gravie](https://jobo.world/company/Gravie)
+
+* **[Software Quality Assurance Leader](https://jobs.lever.co/gravie/7a691bbd-cf1c-4cf4-babf-80a491f457e2)** — _n/a_ _(posted 2025-07-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
 
@@ -95,13 +97,11 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
-* **[CyberSecurity Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/CyberSecurity-Engineer_R-381711)** — _n/a_ _(posted 2025-07-08)_
 * **[Call Quality Coach - Vietnamese](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Call-Quality-Coach---Vietnamese_R-380354)** — _n/a_ _(posted 2025-07-07)_
 * **[Call Quality Coach - Cantonese](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Call-Quality-Coach---Cantonese_R-380355)** — _n/a_ _(posted 2025-07-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0p2lkgyrsetxsdrpcp0.webp" width="24" height="24" alt="Interwell Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Interwell Health](https://jobo.world/company/Interwell-Health)
 
-* **[Data Engineer](https://job-boards.greenhouse.io/interwellhealth/jobs/4749959008)** — _n/a_ _(posted 2025-06-07)_
 * **[Manager, Quality Reporting](https://boards.greenhouse.io/interwellhealth/jobs/4535061008)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccz9dhecdmrekaje96ee.webp" width="24" height="24" alt="iRhythm Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[iRhythm Technologies](https://jobo.world/company/iRhythm-Technologies)
@@ -137,6 +137,11 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Production Support Engineer](https://jobs.lever.co/makpar/3ed5c2cc-dfe2-4e5b-aee9-f0c1d78aae7a)** — _n/a_ _(posted 2024-09-20)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac9ek3cianx4jwsfjvd6.webp" width="24" height="24" alt="Marqeta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Marqeta](https://jobo.world/company/Marqeta)
+
+* **[Technology Internal Audit Manager](https://job-boards.greenhouse.io/marqeta/jobs/7012841)** — _n/a_ _(posted 2025-07-12)_
+* **[Technology Internal Audit Manager](https://job-boards.greenhouse.io/mqreferrals/jobs/7012843)** — _n/a_ _(posted 2025-07-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac0nmn8nizlavraea6ot.webp" width="24" height="24" alt="Meter logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Meter](https://jobo.world/company/Meter)
 
 * **[Support Engineering](https://job-boards.greenhouse.io/meter/jobs/4559773006)** — _n/a_ _(posted 2025-07-03)_
@@ -165,10 +170,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ouaczxlwlkcqf2eimdw2.webp" width="24" height="24" alt="PointClickCare logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PointClickCare](https://jobo.world/company/PointClickCare)
 
 * **[Intermediate Automation and Security Engineer](https://jobs.lever.co/pointclickcare/dfb8f839-f76c-4632-b96c-b7e982ddf3f3)** — _n/a_ _(posted 2025-07-04)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
-
-* **[Security Engineer](https://jobs.ashbyhq.com/privy/97b90b81-8023-4925-901a-4a76b9fe6e7f)** — ¤150,000 – ¤250,000 USD _(posted 2025-03-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tckn4lxm8tiyawnuibs4.webp" width="24" height="24" alt="Protegrity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Protegrity](https://jobo.world/company/Protegrity)
 
@@ -260,10 +261,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Senior Security Engineer, Application Security](https://apply.workable.com/trailofbits/j/8CCA1C640A/)** — ¤10,000 USD _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
-
-* **[Staff Quality Engineer I](https://jobs.lever.co/trueml/ba75f151-4a1c-48f4-a01a-73efa2146b6e)** — _n/a_ _(posted 2025-06-06)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sga8awyk2vu9tdgrwd55.webp" width="24" height="24" alt="Upgrade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upgrade](https://jobo.world/company/Upgrade)
 
 * **[Senior QA Automation Engineer](https://job-boards.greenhouse.io/upgrade/jobs/4497438005)** — _n/a_ _(posted 2025-04-15)_
@@ -296,4 +293,4 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Clinical QA analyst (contract) ](https://jobs.ashbyhq.com/writer/28a957fc-4ee9-414e-b5e4-601ae9dd29fe)** — _n/a_ _(posted 2025-06-25)_
 
 ---
-_Updated automatically — 2025-07-12_
+_Updated automatically — 2025-07-13_
