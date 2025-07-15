@@ -15,39 +15,32 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Junior Processor Verification Engineer, RISC-V (Contractor)](https://jobs.smartrecruiters.com/LinuxFoundation/744000069399775-junior-processor-verification-engineer-risc-v-contractor-?oga=true)** — ¤96,000 – ¤120,000 USD _(posted 2025-07-08)_
 * **[Senior Processor Verification Engineer, RISC-V (Contractor)](https://jobs.smartrecruiters.com/LinuxFoundation/744000069399695-senior-processor-verification-engineer-risc-v-contractor-?oga=true)** — ¤144,000 – ¤168,000 USD _(posted 2025-07-08)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
-
-* **[Staff Software Engineer- Risk Engine](https://jobs.lever.co/aledade/fe34c7fc-9827-4829-b8a4-4afcd840d7c1)** — _n/a_ _(posted 2025-05-06)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/edjzfclp6hadlzvpzex8.webp" width="24" height="24" alt="AlphaSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AlphaSense](https://jobo.world/company/AlphaSense)
-
-* **[Technical Support Engineer](https://job-boards.greenhouse.io/alphasense/jobs/7950763002)** — _n/a_ _(posted 2025-04-22)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ckyjhkdbpmvj9xoezwuu.webp" width="24" height="24" alt="Altera Digital Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altera Digital Health](https://jobo.world/company/Altera-Digital-Health)
-
-* **[Production Engineer](https://jobs.lever.co/smiledigitalhealth/af8e0112-7b75-42ec-9c37-a3447704210e)** — _n/a_ _(posted 2025-06-20)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/chwihdihlaepndnkqagr.webp" width="24" height="24" alt="Angi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angi](https://jobo.world/company/Angi)
 
 * **[Quality Operations Advisor](https://job-boards.greenhouse.io/angi/jobs/8062352002)** — _n/a_ _(posted 2025-07-09)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmk89815sfaplzwlwfj2.webp" width="24" height="24" alt="Arrow Electronics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arrow Electronics](https://jobo.world/company/Arrow-Electronics)
-
-* **[Design Verification Engineer (eInfochips Inc)](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MA-Massachusetts-Remote-Employees/Design-Verification-Engineer--eInfochips-Inc-_R229471)** — ¤160,000 – ¤185,000 USD _(posted 2025-03-13)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
+* **[Naukri Test Job](https://jobs.ashbyhq.com/reteam/73a7fa3f-8475-4c48-b4a7-48045bc7743f)** — ¤1 – ¤100 USD _(posted 2025-03-21)_
 * **[63177 Check Job](https://jobs.ashbyhq.com/reteam/71a2fa58-d779-4a83-9e9f-9f2fde81f20e)** — ¤75,000 – ¤100,000 USD _(posted 2025-03-18)_
+* **[Teo Job Test](https://jobs.ashbyhq.com/reteam/8f7e87d3-dd05-49f2-9837-89fa6b023dd8)** — ¤75,000 – ¤100,000 USD _(posted 2025-03-12)_
+* **[Test for .doc and .docx download](https://jobs.ashbyhq.com/reteam/38e86a9c-6f4f-44c6-8fa6-a57db35e42e7)** — ¤50,000 – ¤60,000 USD _(posted 2025-03-12)_
 * **[QA Engineer](https://jobs.ashbyhq.com/reteam/dc5ee2cf-2b95-4870-b5b7-6d6305be0146)** — ¤50,000 – ¤65,000 USD _(posted 2025-03-12)_
 * **[March 7, 2024 QA New Role!!!](https://jobs.ashbyhq.com/reteam/aa6b2818-f2e4-48f3-b1f9-041bd7556c84)** — _n/a_ _(posted 2025-03-12)_
+* **[Brand New Job With A New Name](https://jobs.ashbyhq.com/reteam/4eb5914d-5e02-4e68-986c-0eb1a87a1b3d)** — _n/a_ _(posted 2025-03-12)_
+* **[BRAND NEW JOB!](https://jobs.ashbyhq.com/reteam/5b650610-6e2f-4270-863d-a0ca86a41cbb)** — ¤15,000 – ¤17,000 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fhsbwfck9brhwntjbb9f.webp" width="24" height="24" alt="Assembled logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Assembled](https://jobo.world/company/Assembled)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hlig8btjkeofmhnarcst.webp" width="24" height="24" alt="Atlan logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Atlan](https://jobo.world/company/Atlan)
 
-* **[AI Agent Software Engineer - Agent Performance Engineering](https://jobs.ashbyhq.com/assembledhq/4d74d0f1-de21-42ef-a77c-874e477eaa25)** — ¤120,000 – ¤270,000 USD _(posted 2025-05-30)_
+* **[Sales Engineer, USA West](https://jobs.ashbyhq.com/atlan/12f4bec0-e34c-492b-9844-01d0d6c22e2f)** — _n/a_ _(posted 2025-03-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ufu9ybmv5kierbneyd6z.webp" width="24" height="24" alt="Axsome Therapeutics Inc logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Axsome Therapeutics Inc](https://jobo.world/company/Axsome-Therapeutics-Inc)
 
 * **[Contract, Quality Assurance – Computer System Validation (QA CSV)](https://ptcbio.wd5.myworkdayjobs.com/ptc_careers/job/Remote-United-States/Contractor--Quality-Assurance---Computer-System-Validation--QA-CSV-_R3591)** — _n/a_ _(posted 2025-06-24)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpfc82azslc17w3xudzi.webp" width="24" height="24" alt="Bestow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bestow](https://jobo.world/company/Bestow)
+
+* **[Staff Software Engineer, Life & Annuity Specialist](https://jobs.ashbyhq.com/bestow/3b2a718f-e754-40e3-8996-a32343b7c511)** — ¤180,000 – ¤225,000 USD _(posted 2025-07-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/stsgjszd0fyq1amxk6x2.webp" width="24" height="24" alt="Blank Street logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Blank Street](https://jobo.world/company/Blank-Street)
 
@@ -58,9 +51,13 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Sr. Quality Assurance Analyst](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Sr-Quality-Assurance-Analyst_JR10637)** — _n/a_ _(posted 2025-07-10)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zlyfrzlluxtmgc1yozvk.webp" width="24" height="24" alt="Check logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Check](https://jobo.world/company/Check)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sxdrarptl5qli5pjajrc.webp" width="24" height="24" alt="Chamberlain Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chamberlain Group](https://jobo.world/company/Chamberlain-Group)
 
-* **[Solutions Engineer](https://job-boards.greenhouse.io/check/jobs/5555768004)** — _n/a_ _(posted 2025-06-03)_
+* **[Customer Care Quality Assurance Associate III](https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Remote---Illinois/Customer-Care-Quality-Assurance-Associate-III_JR29120)** — ¤43,932 – ¤64,894 USD _(posted 2025-06-26)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bqklosjijtqkmxnsehvz.webp" width="24" height="24" alt="Cresta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cresta](https://jobo.world/company/Cresta)
+
+* **[Principal Solutions Engineer, West](https://boards.greenhouse.io/cresta/jobs/4576065008)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
@@ -70,16 +67,39 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Sr. Sensor SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Sensor-SDET--Remote-_R23760)** — _n/a_ _(posted 2025-07-07)_
 * **[Director of Engineering, Sensor Quality (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Director-of-Engineering--Sensor-Quality--Remote-_R23641)** — _n/a_ _(posted 2025-06-24)_
 * **[SDET III - Flight Control (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III---Flight-Control--Remote-_R23305)** — _n/a_ _(posted 2025-05-27)_
+* **[Sr. SDET - Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-SDET---Windows-Sensor--Remote-_R22691-1)** — _n/a_ _(posted 2025-03-28)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v13qsi5yj0mn7o2emyf8.webp" width="24" height="24" alt="Dagster Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dagster Labs](https://jobo.world/company/Dagster-Labs)
+
+* **[Developer Success Engineer - West](https://job-boards.greenhouse.io/dagsterlabs/jobs/6577667003)** — ¤60,000 – ¤80,000 USD _(posted 2025-05-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/znpexukgd1finlp9p5hw.webp" width="24" height="24" alt="ElevenLabs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ElevenLabs](https://jobo.world/company/ElevenLabs)
 
 * **[QA Testing & UX Research](https://jobs.ashbyhq.com/elevenlabs/5a4ff3e0-417d-4013-a78f-85849537f048)** — _n/a_ _(posted 2025-07-10)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wpkaroszpgkzglupy3hh.webp" width="24" height="24" alt="EvolutionIQ logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EvolutionIQ](https://jobo.world/company/EvolutionIQ)
+
+* **[Staff Software Engineer (Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/5437665004)** — _n/a_ _(posted 2025-03-30)_
+* **[Senior Software Engineer (Python / Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/5424534004)** — _n/a_ _(posted 2025-03-30)_
+* **[Senior Software Engineer, Data Engineering (Python - Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/5424537004)** — _n/a_ _(posted 2025-03-30)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kjrdasakeo1yozikds7j.webp" width="24" height="24" alt="Firstup logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Firstup](https://jobo.world/company/Firstup)
+
+* **[Account Executive (West/Mid-West Territory)](https://jobs.lever.co/firstup/f82e9e2d-caa3-47ab-b3e4-196ec8fbd8ea)** — _n/a_ _(posted 2025-05-27)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
+
+* **[UAS Test Pilot ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F86d25336-9863-4ec6-9374-f704eb56b49e)** — ¤70,800 – ¤97,400 USD _(posted 2025-07-12)_
+* **[UAS Flight Test Engineer](https://jobs.ashbyhq.com%2Fflock%2520safety%2F7e4f5706-8d3e-4b80-bd71-53a35bcb9bce)** — ¤70,800 – ¤97,400 USD _(posted 2025-07-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
+
+* **[Senior Manager, Clinical Quality &amp; Programs](https://jobs.lever.co/foodsmart/194d77b9-9ace-4991-a93e-4946b753572e)** — _n/a_ _(posted 2025-06-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
 * **[Senior Quality Engineer, Consumer Solutions](https://jobs.lever.co/goodleap/397ef304-d0b0-45c0-9d7f-3e4f0529389f)** — _n/a_ _(posted 2025-07-03)_
 * **[Senior Quality Engineer, Payments](https://jobs.lever.co/goodleap/8e93e30a-9f33-4626-b684-97b686204dc1)** — _n/a_ _(posted 2025-06-10)_
-* **[Site Reliability Engineer](https://jobs.lever.co/goodleap/82480296-d5a3-4569-9de3-b04ca63c351f)** — _n/a_ _(posted 2025-05-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o38lh0joyi8xi3irlknt.webp" width="24" height="24" alt="Gravie logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Gravie](https://jobo.world/company/Gravie)
 
@@ -88,21 +108,34 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
 
 * **[Post Silicon Validation Engineer](https://job-boards.greenhouse.io/groq/jobs/5979427003)** — _n/a_ _(posted 2025-05-21)_
-* **[Senior Staff Electrical Component Engineer](https://job-boards.greenhouse.io/groq/jobs/6561598003)** — _n/a_ _(posted 2025-05-21)_
 * **[Systems Quality and Reliability Lead](https://job-boards.greenhouse.io/groq/jobs/6505634003)** — _n/a_ _(posted 2025-05-21)_
+* **[Software Engineer, Model Evaluation Systems](https://job-boards.greenhouse.io/groq/jobs/6493328003)** — _n/a_ _(posted 2025-05-21)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tgzryldkxag6dhkpbwqq.webp" width="24" height="24" alt="Handshake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Handshake](https://jobo.world/company/Handshake)
+
+* **[AI Tutor, Virology Specialist (contract), Handshake AI](https://jobs.ashbyhq.com/handshake/bfd7e027-bd9e-43b8-a294-25194c1e15aa)** — _n/a_ _(posted 2025-07-12)_
+* **[AI Tutor, Chemical Engineering Specialist (contract), Handshake AI](https://jobs.ashbyhq.com/handshake/fe2912ad-a10a-400f-87f4-30d90ad32a34)** — _n/a_ _(posted 2025-07-12)_
+* **[AI Tutor, General (contract), Handshake AI](https://jobs.ashbyhq.com/handshake/21b85356-2109-431e-8bf2-c383fa22633a)** — ¤83,200 – ¤145,600 USD _(posted 2025-07-12)_
+* **[AI Tutor, Geochemistry Specialist (contract), Handshake AI](https://jobs.ashbyhq.com/handshake/7f3165e5-be8d-45d7-a04b-a1c898c1c207)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qojajlybelziqnn3mgv5.webp" width="24" height="24" alt="Hudl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hudl](https://jobo.world/company/Hudl)
 
 * **[Senior Quality Assurance Manager - Focus](https://job-boards.greenhouse.io/hudl/jobs/6988774)** — _n/a_ _(posted 2025-06-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
+
+* **[Risk Adjustment Representative](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Iowa/Risk-Adjustment-Representative_R-378619)** — _n/a_ _(posted 2025-06-24)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kedn6sigetee1u7wlhfi.webp" width="24" height="24" alt="Hyperscience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hyperscience](https://jobo.world/company/Hyperscience)
+
+* **[Sales Engineer - (West or Central)](https://jobs.lever.co/hyperscience/76c67146-c166-4e5b-9246-e6f746dd77d9)** — _n/a_ _(posted 2025-05-02)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0p2lkgyrsetxsdrpcp0.webp" width="24" height="24" alt="Interwell Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Interwell Health](https://jobo.world/company/Interwell-Health)
 
-* **[Data Engineer](https://job-boards.greenhouse.io/interwellhealth/jobs/4749959008)** — _n/a_ _(posted 2025-06-07)_
 * **[Manager, Quality Reporting](https://boards.greenhouse.io/interwellhealth/jobs/4535061008)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccz9dhecdmrekaje96ee.webp" width="24" height="24" alt="iRhythm Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[iRhythm Technologies](https://jobo.world/company/iRhythm-Technologies)
 
-* **[Staff Systems Reliability Engineer](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Staff-Systems-Reliability-Engineer_JR348)** — _n/a_ _(posted 2025-06-28)_
 * **[Lead Test Automation Engineer (SDET)](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Lead-Test-Automation-Engineer--SDET-_JR10)** — _n/a_ _(posted 2025-06-09)_
 * **[Senior QA Clinical Specialist- Post Market](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Senior-QA-Clinical-Specialist--Post-Market_JR20)** — _n/a_ _(posted 2025-05-19)_
 * **[Sr eQMS Quality Specialist](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Sr-eQMS-Quality-Specialist_JR48)** — _n/a_ _(posted 2025-05-15)_
@@ -111,6 +144,10 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[QA Analyst, Privilege Access Management](https://apply.workable.com/keepersecurity/j/589ABBA21B/)** — _n/a_ _(posted 2025-06-30)_
 * **[Senior Test Tools Engineer](https://apply.workable.com/keepersecurity/j/DD61DC84A6/)** — _n/a_ _(posted 2025-04-10)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ahthrshvmkoqome9owj0.webp" width="24" height="24" alt="Keywords Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keywords Studios](https://jobo.world/company/Keywords-Studios)
+
+* **[Senior Research Associate - AI](https://apply.workable.com/keywords-intl1/j/AE603623C1/)** — ¤56,160 – ¤73,680 USD _(posted 2025-02-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
 
@@ -129,95 +166,50 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Quality Assurance Engineer (Remote)](https://jobs.ashbyhq.com/machinify/3ac0a2a3-ab89-4a6d-8766-0cfcf6f3d94e)** — _n/a_ _(posted 2025-07-04)_
 * **[Automation Engineer, UI Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/00b016d2-8209-4b2c-826c-2c67f909711e)** — _n/a_ _(posted 2025-05-31)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqkoo9bpphunfsb4j3bk.webp" width="24" height="24" alt="Makpar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Makpar](https://jobo.world/company/Makpar)
-
-* **[Production Support Engineer](https://jobs.lever.co/makpar/3ed5c2cc-dfe2-4e5b-aee9-f0c1d78aae7a)** — _n/a_ _(posted 2024-09-20)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac9ek3cianx4jwsfjvd6.webp" width="24" height="24" alt="Marqeta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Marqeta](https://jobo.world/company/Marqeta)
-
-* **[Technology Internal Audit Manager](https://job-boards.greenhouse.io/marqeta/jobs/7012841)** — _n/a_ _(posted 2025-07-12)_
-* **[Technology Internal Audit Manager](https://job-boards.greenhouse.io/mqreferrals/jobs/7012843)** — _n/a_ _(posted 2025-07-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac0nmn8nizlavraea6ot.webp" width="24" height="24" alt="Meter logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Meter](https://jobo.world/company/Meter)
-
-* **[Support Engineering](https://job-boards.greenhouse.io/meter/jobs/4559773006)** — _n/a_ _(posted 2025-07-03)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ocdf4uet3xptpkinlbly.webp" width="24" height="24" alt="Nationwide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nationwide](https://jobo.world/company/Nationwide)
 
 * **[Consultant, Quality Assurance - Commercial Lines (P&C Insurance - Middle Market Underwriting QA Consultant)](https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/United-States---Remote/Consultant--Quality-Assurance---Commercial-Lines--P-C-Insurance---Middle-Market-Underwriting-QA-Consultant-_93083)** — _n/a_ _(posted 2025-06-28)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/daoul0jf3nrv3fcbrve8.webp" width="24" height="24" alt="Noah Medical logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Noah Medical](https://jobo.world/company/NoahMedical)
+
+* **[Manager, Complaints and Post-Market](https://boards.greenhouse.io/noahmedical/jobs/4623983008)** — _n/a_ _(posted 2025-04-10)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
+
+* **[Apply here to join Nutrafol&#x27;s Talent Community!](https://job-boards.greenhouse.io/nutrafol/jobs/4385354005)** — _n/a_ _(posted 2025-04-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Test Engineer](https://job-boards.greenhouse.io/oklo/jobs/5544852004)** — _n/a_ _(posted 2025-05-23)_
-* **[Mechanical Analyst Engineer](https://boards.greenhouse.io/oklo/jobs/4961080004)** — _n/a_ _(posted 2025-05-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Owens & Minor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Owens & Minor](https://jobo.world/company/Owens-Minor)
 
 * **[Quality Engineer](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Remote---Tennessee/Quality-Engineer_REQ_25_25870)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
+
+* **[Join Our Talent Community](https://job-boards.greenhouse.io/patientpoint/jobs/4243761005)** — _n/a_ _(posted 2025-03-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wnpvtpdgwe6vnjf701sp.webp" width="24" height="24" alt="PerformYard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PerformYard](https://jobo.world/company/PerformYard)
 
 * **[Manual QA Tester](https://apply.workable.com/performyard/j/0A220C83A9/)** — _n/a_ _(posted 2025-05-05)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/huphdmkwteanmekhvotl.webp" width="24" height="24" alt="Phantom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Phantom](https://jobo.world/company/Phantom)
-
-* **[Release Management Engineer](https://jobs.ashbyhq.com/phantom/ec58b424-7d68-4fbd-8c11-9ebe3be4a7be)** — _n/a_ _(posted 2025-07-02)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ouaczxlwlkcqf2eimdw2.webp" width="24" height="24" alt="PointClickCare logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PointClickCare](https://jobo.world/company/PointClickCare)
-
-* **[Intermediate Automation and Security Engineer](https://jobs.lever.co/pointclickcare/dfb8f839-f76c-4632-b96c-b7e982ddf3f3)** — _n/a_ _(posted 2025-07-04)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
-
-* **[Security Engineer](https://jobs.ashbyhq.com/privy/97b90b81-8023-4925-901a-4a76b9fe6e7f)** — ¤150,000 – ¤250,000 USD _(posted 2025-03-25)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tckn4lxm8tiyawnuibs4.webp" width="24" height="24" alt="Protegrity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Protegrity](https://jobo.world/company/Protegrity)
-
-* **[Lead Software Engineer -Full stack  675](https://jobs.ashbyhq.com/protegrity/348cd2b9-0f85-49fa-a900-4fcd61f0239e)** — ¤160,000 – ¤180,000 USD _(posted 2025-06-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qp1uamkdt7aykfiliomk.webp" width="24" height="24" alt="Qualified.com logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Qualified.com](https://jobo.world/company/Qualified-Dotcom)
-
-* **[Senior Product Manager](https://jobs.ashbyhq.com/qualified/38417268-3c31-46e2-8402-3306d4ec1d8c)** — ¤160,000 – ¤190,000 USD _(posted 2025-06-27)_
-* **[Engineering Manager, Platform & Infrastructure](https://jobs.ashbyhq.com/qualified/492bbaf7-1f1f-4a1c-8595-baef82692743)** — ¤190,000 – ¤210,000 USD _(posted 2025-06-14)_
-* **[Staff Software Engineer, Platform & Infrastructure](https://jobs.ashbyhq.com/qualified/aca7afc8-ae96-4bf6-bf6c-13024c77cb12)** — ¤230,000 – ¤260,000 USD _(posted 2025-04-18)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwnmkx7jqw3p2e6t0isk.webp" width="24" height="24" alt="Quora logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Quora](https://jobo.world/company/Quora)
-
-* **[AI Automation Engineer (Remote)](https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5)** — _n/a_ _(posted 2025-06-11)_
-* **[Staff Infrastructure Security Software Engineer (Remote)](https://jobs.ashbyhq.com/quora/b808dfbe-4d0d-4077-b88c-cdd7f7beda91)** — _n/a_ _(posted 2025-05-22)_
-* **[Staff Product Security Software Engineer (Remote)](https://jobs.ashbyhq.com/quora/e888eecc-678f-4eeb-bb5f-5ca7095d8d4e)** — _n/a_ _(posted 2025-05-22)_
-* **[Senior Software Engineer - Machine Learning Platform, Quora (Remote)](https://jobs.ashbyhq.com/quora/89b213bf-06e7-43a2-9101-4b93d711d796)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/adkfhiop5u2vlaw1xufg.webp" width="24" height="24" alt="Qventus logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Qventus](https://jobo.world/company/Qventus)
-
-* **[DevOps Manager](https://jobs.ashbyhq.com/qventus/f3d72679-53c9-46c4-a12a-004cf60daed0)** — _n/a_ _(posted 2025-06-27)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
-
-* **[Senior Security Engineer, Application & Cloud](https://jobs.ashbyhq.com/radai/e68e2f6f-b997-4c15-9fe1-a06e085e89b0)** — ¤150,000 – ¤180,000 USD _(posted 2025-04-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ooageyecwxjflkskrez8.webp" width="24" height="24" alt="Reliable Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reliable Robotics](https://jobo.world/company/Reliable-Robotics)
-
-* **[Systems Safety Engineer](https://jobs.lever.co/reliable/c141557c-dde1-4bac-8fd3-eda89e7864d0)** — _n/a_ _(posted 2023-06-08)_
-* **[Systems Architect](https://jobs.lever.co/reliable/b2ead667-547f-4217-b892-835d22f5874d)** — _n/a_ _(posted 2023-06-05)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xi7iziz3wk6eyva5r7qp.webp" width="24" height="24" alt="Research Innovations logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Research Innovations](https://jobo.world/company/Research-Innovations)
-
-* **[Security Engineer](https://apply.workable.com/resource-innovations/j/9010A86C2A/)** — ¤100,000 – ¤100,000 USD _(posted 2025-06-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/viospyvgzcygn6qca7le.webp" width="24" height="24" alt="RPS North America logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RPS North America](https://jobo.world/company/RPS-North-America)
-
-* **[Pennsylvania Quality Manager (Security)](https://logsite.wd12.myworkdayjobs.com/surefox/job/Remote---Pennsylvania/Pennsylvania-Quality-Manager--Security-_JR101323)** — _n/a_ _(posted 2025-01-27)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
 
-* **[Application Security Engineer](https://job-boards.greenhouse.io/rxsense/jobs/4582046005)** — _n/a_ _(posted 2025-07-09)_
 * **[IAM Quality Engineer](https://job-boards.greenhouse.io/rxsense/jobs/4567586005)** — _n/a_ _(posted 2025-05-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxxhtbeehm6paq1tiic8.webp" width="24" height="24" alt="Semtech logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Semtech](https://jobo.world/company/Semtech)
 
-* **[Service Assurance Engineer](https://semtech.wd1.myworkdayjobs.com/semtechcareers/job/USA---GA-Remote/Service-Assurance-Engineer_REQ2581)** — _n/a_ _(posted 2025-01-27)_
 * **[Service Assurance Engineer](https://semtech.wd1.myworkdayjobs.com/semtechcareers/job/USA---GA-Remote/Service-Assrance-Engineer_REQ2576)** — _n/a_ _(posted 2025-01-27)_
+* **[Service Assurance Engineer](https://semtech.wd1.myworkdayjobs.com/semtechcareers/job/USA---GA-Remote/Service-Assurance-Engineer_REQ2581)** — _n/a_ _(posted 2025-01-27)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
+
+* **[Software Engineer, Build & Developer Tools](https://jobs.ashbyhq.com/serverobotics/fae11e4e-f9f6-4cae-8400-fe7235811971)** — ¤130,000 – ¤170,000 USD _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yhm5ssfvyrtsa8ejlhez.webp" width="24" height="24" alt="Sezzle logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sezzle](https://jobo.world/company/Sezzle)
+
+* **[Sezzle Talent Community - General Interest](https://job-boards.greenhouse.io/sezzle/jobs/4678126003)** — _n/a_ _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtluyxvy2bihcc746mgd.webp" width="24" height="24" alt="Shift5 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Shift5](https://jobo.world/company/Shift5)
 
@@ -226,20 +218,16 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
 
 * **[DevOps / QA Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/afc8a0dd-0156-4d05-bfd0-0007a5bcfd00)** — _n/a_ _(posted 2025-06-26)_
+* **[Production Engineer](https://jobs.ashbyhq.com/sleeper/4cb3cda4-dbc9-4398-9f69-30702516b196)** — _n/a_ _(posted 2025-05-28)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/axeqfcn1tgu0hmd9lcdi.webp" width="24" height="24" alt="StarCompliance logo" style="vertical-align:middle"/>&nbsp;&nbsp;[StarCompliance](https://jobo.world/company/StarCompliance)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
 
-* **[Site Reliability Engineer US](https://jobs.lever.co/starcompliance/aa7d55f4-e382-4579-915e-9d363fe643d9)** — _n/a_ _(posted 2025-06-19)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w4ks1qx6ryiurq7yzq6z.webp" width="24" height="24" alt="Swish Analytics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Swish Analytics](https://jobo.world/company/SwishAnalytics)
-
-* **[Cloud Security Engineer](https://job-boards.greenhouse.io/swishanalytics/jobs/4582161005)** — _n/a_ _(posted 2025-07-02)_
+* **[Sales Engineer - West](https://job-boards.greenhouse.io/spycloud/jobs/6565478003)** — _n/a_ _(posted 2025-05-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
 * **[Lean & Service Quality Leader](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Director--Security_R5046)** — _n/a_ _(posted 2025-07-03)_
 * **[Principal Quality Assurance Manager – Steel](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Principal-Quality-Assurance-Manager---Steel_R4972-1)** — _n/a_ _(posted 2025-06-05)_
-* **[Technical Control Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer_R4776-1)** — _n/a_ _(posted 2025-04-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cbqseb7qanoppr64ffdp.webp" width="24" height="24" alt="Tailscale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tailscale](https://jobo.world/company/Tailscale)
 
@@ -253,13 +241,21 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
 * **[Director, Quality – Digital Systems](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Indiana-USA/Director--Quality---Digital-Systems_R-01322096)** — _n/a_ _(posted 2025-07-10)_
+* **[Supplier Management Engineer (REMOTE)](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/Supplier-Management-Engineer--REMOTE-_R-01322748)** — _n/a_ _(posted 2025-07-10)_
+* **[Global IT Compliance Sr Specialist](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Pennsylvania-USA/Global-IT-Compliance-Sr-Specialist_R-01322097)** — _n/a_ _(posted 2025-07-09)_
 * **[QA Auditor](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/QA-Auditor_R-01322775)** — _n/a_ _(posted 2025-07-02)_
-* **[Senior System Analyst](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Senior-System-Analyst_R-01322098)** — _n/a_ _(posted 2025-06-25)_
-* **[Qualitative COA Lead](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Maryland-USA/Qualitative-COA-Lead_R-01318101)** — _n/a_ _(posted 2025-05-20)_
+* **[Engineer II, Depot Repair](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Texas-USA/Engineer-II--Depot-Repair_R-01320163)** — _n/a_ _(posted 2025-06-11)_
+* **[GCP Compliance Oversight Manager, FSP](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/GCP-Compliance-Oversight-Manager--FSP_R-01305433)** — _n/a_ _(posted 2025-03-07)_
+* **[GCP Compliance and Process Lead, FSP](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/GCP-Compliance-and-Process-Lead--FSP_R-01305422)** — _n/a_ _(posted 2025-03-07)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e5cjw3xjodg2qzawu8c9.webp" width="24" height="24" alt="Trail of Bits logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trail of Bits](https://jobo.world/company/TrailofBits)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/npxz1hwxigd8embyomhx.webp" width="24" height="24" alt="Tines logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tines](https://jobo.world/company/Tines)
 
-* **[Senior Security Engineer, Application Security](https://apply.workable.com/trailofbits/j/8CCA1C640A/)** — ¤10,000 USD _(posted 2025-06-06)_
+* **[Professional Services Engineer - West](https://job-boards.greenhouse.io/tines/jobs/5566591004)** — _n/a_ _(posted 2025-06-18)_
+* **[Customer Success Engineer - West](https://job-boards.greenhouse.io/tines/jobs/5540262004)** — ¤120,000 – ¤160,000 USD _(posted 2025-05-15)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
+
+* **[Implementation Specialist](https://jobs.lever.co/trueml/bc44e97b-0223-4aa8-b38d-13eff05a9b20)** — _n/a_ _(posted 2025-07-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sga8awyk2vu9tdgrwd55.webp" width="24" height="24" alt="Upgrade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upgrade](https://jobo.world/company/Upgrade)
 
@@ -271,18 +267,16 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
-* **[Compliance Automation Engineer, GRC](https://jobs.ashbyhq.com/vanta/7f732b71-eeba-499c-87fd-e704c2397a20)** — ¤139,000 – ¤164,000 USD _(posted 2025-06-25)_
+* **[Fullstack Senior Software Engineer, Test Experience](https://jobs.ashbyhq.com/vanta/295fdbe4-a6cf-4f93-a170-555c8b77f352)** — ¤179,000 – ¤211,000 USD _(posted 2025-07-09)_
 * **[Backend Senior Software Engineer, Test Experience](https://jobs.ashbyhq.com/vanta/ef407939-b6fd-46aa-8b14-e6cf0c805579)** — ¤179,000 – ¤211,000 USD _(posted 2025-06-19)_
-* **[Engineering Manager, Questionnaire Automation](https://jobs.ashbyhq.com/vanta/a10426d7-92a5-4338-93f3-052ee2e5f817)** — ¤207,000 – ¤244,000 USD _(posted 2025-05-22)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ptuq8bmeadcras6mz8tu.webp" width="24" height="24" alt="Verinext logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Verinext](https://jobo.world/company/Verinext)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
 
-* **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
+* **[Sales Engineer, West](https://job-boards.greenhouse.io/vercel/jobs/5347669004)** — _n/a_ _(posted 2025-05-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pbktsgrj360jmwi2ajpt.webp" width="24" height="24" alt="Waabi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Waabi](https://jobo.world/company/Waabi)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gfujrrwvqpdfryjn0v15.webp" width="24" height="24" alt="Weedmaps logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Weedmaps](https://jobo.world/company/Weedmaps)
 
-* **[Senior / Staff Systems Engineer - Safety Methodologies](https://jobs.lever.co/waabi/989c9d95-3d1a-48f0-a389-dadffaf9edae)** — _n/a_ _(posted 2025-06-10)_
-* **[Senior / Staff Software Engineer, Simulation Platform](https://jobs.lever.co/waabi/98adc020-0aa7-4972-a3be-bd713be72fcc)** — _n/a_ _(posted 2025-02-28)_
+* **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d7dueixfzg0r80wfv2va.webp" width="24" height="24" alt="Workwave logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Workwave](https://jobo.world/company/Workwave)
 
@@ -293,4 +287,4 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Clinical QA analyst (contract) ](https://jobs.ashbyhq.com/writer/28a957fc-4ee9-414e-b5e4-601ae9dd29fe)** — _n/a_ _(posted 2025-06-25)_
 
 ---
-_Updated automatically — 2025-07-14_
+_Updated automatically — 2025-07-15_
