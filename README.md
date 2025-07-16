@@ -15,6 +15,10 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Junior Processor Verification Engineer, RISC-V (Contractor)](https://jobs.smartrecruiters.com/LinuxFoundation/744000069399775-junior-processor-verification-engineer-risc-v-contractor-?oga=true)** — ¤96,000 – ¤120,000 USD _(posted 2025-07-08)_
 * **[Senior Processor Verification Engineer, RISC-V (Contractor)](https://jobs.smartrecruiters.com/LinuxFoundation/744000069399695-senior-processor-verification-engineer-risc-v-contractor-?oga=true)** — ¤144,000 – ¤168,000 USD _(posted 2025-07-08)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zzomtjg1qh8bny0kgxwq.webp" width="24" height="24" alt="Alma logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alma](https://jobo.world/company/Alma)
+
+* **[Senior Full Stack Engineer, Eligibility and Compatibility](https://job-boards.greenhouse.io/alma/jobs/8027192002)** — _n/a_ _(posted 2025-06-06)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/chwihdihlaepndnkqagr.webp" width="24" height="24" alt="Angi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angi](https://jobo.world/company/Angi)
 
 * **[Quality Operations Advisor](https://job-boards.greenhouse.io/angi/jobs/8062352002)** — _n/a_ _(posted 2025-07-09)_
@@ -63,7 +67,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Sr Engineer - Cloud SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Engineer---Cloud-SDET--Remote-_R23879)** — _n/a_ _(posted 2025-07-11)_
 * **[SDET III, Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III--Windows-Sensor--Remote-_R23865)** — _n/a_ _(posted 2025-07-11)_
-* **[Sr. Engineer - Front End SDET (Remote, PST)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Engineer---Front-End-SDET--Remote--PST-_R23836)** — _n/a_ _(posted 2025-07-09)_
 * **[Sr. Sensor SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Sensor-SDET--Remote-_R23760)** — _n/a_ _(posted 2025-07-07)_
 * **[Director of Engineering, Sensor Quality (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Director-of-Engineering--Sensor-Quality--Remote-_R23641)** — _n/a_ _(posted 2025-06-24)_
 * **[SDET III - Flight Control (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III---Flight-Control--Remote-_R23305)** — _n/a_ _(posted 2025-05-27)_
@@ -117,14 +120,11 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[AI Tutor, Chemical Engineering Specialist (contract), Handshake AI](https://jobs.ashbyhq.com/handshake/fe2912ad-a10a-400f-87f4-30d90ad32a34)** — _n/a_ _(posted 2025-07-12)_
 * **[AI Tutor, General (contract), Handshake AI](https://jobs.ashbyhq.com/handshake/21b85356-2109-431e-8bf2-c383fa22633a)** — ¤83,200 – ¤145,600 USD _(posted 2025-07-12)_
 * **[AI Tutor, Geochemistry Specialist (contract), Handshake AI](https://jobs.ashbyhq.com/handshake/7f3165e5-be8d-45d7-a04b-a1c898c1c207)** — _n/a_ _(posted 2025-07-12)_
+* **[AI Tutor, Biochemistry Specialist (contract), Handshake AI](https://jobs.ashbyhq.com/handshake/98c4ae7f-1670-4c14-a00d-7e23e5bd29e9)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qojajlybelziqnn3mgv5.webp" width="24" height="24" alt="Hudl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hudl](https://jobo.world/company/Hudl)
 
 * **[Senior Quality Assurance Manager - Focus](https://job-boards.greenhouse.io/hudl/jobs/6988774)** — _n/a_ _(posted 2025-06-26)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
-
-* **[Risk Adjustment Representative](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Iowa/Risk-Adjustment-Representative_R-378619)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kedn6sigetee1u7wlhfi.webp" width="24" height="24" alt="Hyperscience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hyperscience](https://jobo.world/company/Hyperscience)
 
@@ -220,6 +220,10 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[DevOps / QA Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/afc8a0dd-0156-4d05-bfd0-0007a5bcfd00)** — _n/a_ _(posted 2025-06-26)_
 * **[Production Engineer](https://jobs.ashbyhq.com/sleeper/4cb3cda4-dbc9-4398-9f69-30702516b196)** — _n/a_ _(posted 2025-05-28)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
+
+* **[Sales Solutions Architect, West](https://jobs.ashbyhq.com/snowflake/8b40b446-1853-4933-84dc-4815e7a8db03)** — _n/a_ _(posted 2025-03-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
 
 * **[Sales Engineer - West](https://job-boards.greenhouse.io/spycloud/jobs/6565478003)** — _n/a_ _(posted 2025-05-06)_
@@ -246,7 +250,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[QA Auditor](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/QA-Auditor_R-01322775)** — _n/a_ _(posted 2025-07-02)_
 * **[Engineer II, Depot Repair](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Texas-USA/Engineer-II--Depot-Repair_R-01320163)** — _n/a_ _(posted 2025-06-11)_
 * **[GCP Compliance Oversight Manager, FSP](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/GCP-Compliance-Oversight-Manager--FSP_R-01305433)** — _n/a_ _(posted 2025-03-07)_
-* **[GCP Compliance and Process Lead, FSP](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/GCP-Compliance-and-Process-Lead--FSP_R-01305422)** — _n/a_ _(posted 2025-03-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/npxz1hwxigd8embyomhx.webp" width="24" height="24" alt="Tines logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tines](https://jobo.world/company/Tines)
 
@@ -287,4 +290,4 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Clinical QA analyst (contract) ](https://jobs.ashbyhq.com/writer/28a957fc-4ee9-414e-b5e4-601ae9dd29fe)** — _n/a_ _(posted 2025-06-25)_
 
 ---
-_Updated automatically — 2025-07-15_
+_Updated automatically — 2025-07-16_
