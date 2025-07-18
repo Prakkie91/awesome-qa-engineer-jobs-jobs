@@ -38,6 +38,10 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Contract, Quality Assurance – Computer System Validation (QA CSV)](https://ptcbio.wd5.myworkdayjobs.com/ptc_careers/job/Remote-United-States/Contractor--Quality-Assurance---Computer-System-Validation--QA-CSV-_R3591)** — _n/a_ _(posted 2025-06-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pqfdfrjmqmxbudyqcngn.webp" width="24" height="24" alt="Baxter International logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baxter International](https://jobo.world/company/Baxter-International)
+
+* **[Product Quality Representative - 2nd Shift](https://baxter.wd1.myworkdayjobs.com/baxter/job/Raleigh-NC-remote/Product-Quality-Representative---2nd-Shift_JR-176391)** — _n/a_ _(posted 2025-07-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpfc82azslc17w3xudzi.webp" width="24" height="24" alt="Bestow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bestow](https://jobo.world/company/Bestow)
 
 * **[Staff Software Engineer, Life & Annuity Specialist](https://jobs.ashbyhq.com/bestow/3b2a718f-e754-40e3-8996-a32343b7c511)** — ¤180,000 – ¤225,000 USD _(posted 2025-07-02)_
@@ -85,10 +89,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yhctaiobqsyhmgvefwjd.webp" width="24" height="24" alt="Expa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expa](https://jobo.world/company/Expa)
 
 * **[QA Engineer (Contract)](https://jobs.ashbyhq.com/expa/850d19c9-e3ef-4c2a-8a4c-b7ece04039fe)** — ¤62,400 – ¤83,200 USD _(posted 2025-07-16)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kjrdasakeo1yozikds7j.webp" width="24" height="24" alt="Firstup logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Firstup](https://jobo.world/company/Firstup)
-
-* **[Account Executive (West/Mid-West Territory)](https://jobs.lever.co/firstup/f82e9e2d-caa3-47ab-b3e4-196ec8fbd8ea)** — _n/a_ _(posted 2025-05-27)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
@@ -161,10 +161,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Quality Assurance Engineer (Remote)](https://jobs.ashbyhq.com/machinify/3ac0a2a3-ab89-4a6d-8766-0cfcf6f3d94e)** — _n/a_ _(posted 2025-07-04)_
 * **[Automation Engineer, UI Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/00b016d2-8209-4b2c-826c-2c67f909711e)** — _n/a_ _(posted 2025-05-31)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w2dz2cahnjcntso7vhoz.webp" width="24" height="24" alt="Mercury logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mercury](https://jobo.world/company/Mercury)
-
-* **[Senior AML QC Specialist](https://job-boards.greenhouse.io/mercury/jobs/5589901004)** — _n/a_ _(posted 2025-07-16)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ocdf4uet3xptpkinlbly.webp" width="24" height="24" alt="Nationwide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nationwide](https://jobo.world/company/Nationwide)
 
 * **[Consultant, Quality Assurance - Commercial Lines (P&C Insurance - Middle Market Underwriting QA Consultant)](https://nationwide.wd1.myworkdayjobs.com/nationwide_career/job/United-States---Remote/Consultant--Quality-Assurance---Commercial-Lines--P-C-Insurance---Middle-Market-Underwriting-QA-Consultant-_93083)** — _n/a_ _(posted 2025-06-28)_
@@ -197,6 +193,14 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Manual QA Tester](https://apply.workable.com/performyard/j/0A220C83A9/)** — _n/a_ _(posted 2025-05-05)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qzspzfm4jlxxjzlsrq5a.webp" width="24" height="24" alt="Perplexity AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Perplexity AI](https://jobo.world/company/PerplexityAI)
+
+* **[Quality Engineer - Comet](https://job-boards.greenhouse.io/perplexityai/jobs/4790717007)** — _n/a_ _(posted 2025-07-17)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/joyfk98yubokx1ncyjem.webp" width="24" height="24" alt="ProcessUnity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ProcessUnity](https://jobo.world/company/ProcessUnity)
+
+* **[Assurance Services Consultant](https://jobs.lever.co/processunity/b08e16ae-5fdf-48e9-b649-26b2369e7b97)** — _n/a_ _(posted 2024-05-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
 * **[Software Engineer, Build & Developer Tools](https://jobs.ashbyhq.com/serverobotics/fae11e4e-f9f6-4cae-8400-fe7235811971)** — ¤130,000 – ¤170,000 USD _(posted 2025-03-12)_
@@ -218,10 +222,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[DevOps / QA Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/afc8a0dd-0156-4d05-bfd0-0007a5bcfd00)** — _n/a_ _(posted 2025-06-26)_
 * **[Production Engineer](https://jobs.ashbyhq.com/sleeper/4cb3cda4-dbc9-4398-9f69-30702516b196)** — _n/a_ _(posted 2025-05-28)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
-
-* **[Sales Solutions Architect, West](https://jobs.ashbyhq.com/snowflake/8b40b446-1853-4933-84dc-4815e7a8db03)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
 
@@ -290,4 +290,4 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Clinical QA analyst (contract) ](https://jobs.ashbyhq.com/writer/28a957fc-4ee9-414e-b5e4-601ae9dd29fe)** — _n/a_ _(posted 2025-06-25)_
 
 ---
-_Updated automatically — 2025-07-17_
+_Updated automatically — 2025-07-18_
