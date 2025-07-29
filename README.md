@@ -54,6 +54,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Physician Advisory Services QA Specialist - Night Shift](https://apply.workable.com/dane-street-llc/j/EFEE017E43/)** — _n/a_ _(posted 2025-05-09)_
 * **[PRN Physician Advisory Services QA Specialist](https://apply.workable.com/dane-street-llc/j/5172150042/)** — _n/a_ _(posted 2025-04-08)_
 * **[Group Health Medical Director](https://apply.workable.com/dane-street-llc/j/88C48658B6/)** — _n/a_ _(posted 2025-02-20)_
+* **[Physician Reviewer - (Radiation Oncology, Cardiology, Rheumatology)](https://apply.workable.com/dane-street-llc/j/62990C271B/)** — _n/a_ _(posted 2024-03-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
 
@@ -114,6 +115,10 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Senior NPI Engineer ](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fbc5fb252-8fe5-4d5d-b85a-af8a7de33c4d)** — ¤101,600 – ¤139,700 USD _(posted 2025-07-22)_
 * **[UAS Flight Test Engineer](https://jobs.ashbyhq.com%2Fflock%2520safety%2F7e4f5706-8d3e-4b80-bd71-53a35bcb9bce)** — ¤70,800 – ¤97,400 USD _(posted 2025-07-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
+
+* **[Senior Manager, Clinical Quality &amp; Programs](https://jobs.lever.co/foodsmart/194d77b9-9ace-4991-a93e-4946b753572e)** — _n/a_ _(posted 2025-06-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
 
 * **[Staff Test Developer,  AV Sensing](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Staff-Test-Developer---AV-Sensing_JR-202510793)** — _n/a_ _(posted 2025-07-08)_
@@ -141,9 +146,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Sr Automation Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Automation-Engineer_R-381447)** — _n/a_ _(posted 2025-07-25)_
 * **[Senior Quality Improvement Professional](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Ohio/Senior-Quality-Improvement-Professional_R-382404)** — _n/a_ _(posted 2025-07-16)_
 * **[Quality Compliance Professional](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Ohio/Quality-Compliance-Professional_R-382621)** — _n/a_ _(posted 2025-07-16)_
-* **[Call Quality Coach - Vietnamese](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Call-Quality-Coach---Vietnamese_R-380354)** — _n/a_ _(posted 2025-07-07)_
-* **[Call Quality Coach - Cantonese](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Call-Quality-Coach---Cantonese_R-380355)** — _n/a_ _(posted 2025-07-07)_
-* **[Call Quality Coach - Mandarin](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Call-Quality-Coach---Mandarin_R-380356)** — _n/a_ _(posted 2025-07-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bm8f52qu8tuibfpv31kn.webp" width="24" height="24" alt="Instructure logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Instructure](https://jobo.world/company/Instructure)
 
@@ -239,6 +241,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
 
 * **[DevOps / QA Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/afc8a0dd-0156-4d05-bfd0-0007a5bcfd00)** — _n/a_ _(posted 2025-06-26)_
+* **[Production Engineer](https://jobs.ashbyhq.com/sleeper/4cb3cda4-dbc9-4398-9f69-30702516b196)** — _n/a_ _(posted 2025-05-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ztchjewjetxet4seourr.webp" width="24" height="24" alt="Solace Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solace Health](https://jobo.world/company/Solace-Health)
 
@@ -287,4 +290,4 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Clinical QA analyst (contract) ](https://jobs.ashbyhq.com/writer/28a957fc-4ee9-414e-b5e4-601ae9dd29fe)** — _n/a_ _(posted 2025-06-25)_
 
 ---
-_Updated automatically — 2025-07-28_
+_Updated automatically — 2025-07-29_
