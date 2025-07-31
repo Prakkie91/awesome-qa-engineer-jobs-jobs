@@ -18,6 +18,10 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Senior Processor Verification Engineer, RISC-V (Contractor)](https://jobs.smartrecruiters.com/LinuxFoundation/744000069399695-senior-processor-verification-engineer-risc-v-contractor-?oga=true)** — ¤144,000 – ¤168,000 USD _(posted 2025-07-08)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rhksuz0w6frlhe8x8d9x.webp" width="24" height="24" alt="Aiwyn logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aiwyn](https://jobo.world/company/Aiwyn)
+
+* **[Tax Analyst](https://jobs.lever.co/aiwyn/001ee01c-4b43-4636-a413-60d78ac22e25)** — _n/a_ _(posted 2025-07-22)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
 * **[Naukri Test Job](https://jobs.ashbyhq.com/reteam/73a7fa3f-8475-4c48-b4a7-48045bc7743f)** — ¤1 – ¤100 USD _(posted 2025-03-21)_
@@ -55,6 +59,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Physician Advisory Services QA Specialist - Night Shift](https://apply.workable.com/dane-street-llc/j/EFEE017E43/)** — _n/a_ _(posted 2025-05-09)_
 * **[PRN Physician Advisory Services QA Specialist](https://apply.workable.com/dane-street-llc/j/5172150042/)** — _n/a_ _(posted 2025-04-08)_
 * **[Group Health Medical Director](https://apply.workable.com/dane-street-llc/j/88C48658B6/)** — _n/a_ _(posted 2025-02-20)_
+* **[Physician Reviewer - (Radiation Oncology, Cardiology, Rheumatology)](https://apply.workable.com/dane-street-llc/j/62990C271B/)** — _n/a_ _(posted 2024-03-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
 
@@ -63,10 +68,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sxdrarptl5qli5pjajrc.webp" width="24" height="24" alt="Chamberlain Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chamberlain Group](https://jobo.world/company/Chamberlain-Group)
 
 * **[Customer Care Quality Assurance Associate III](https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Remote---Illinois/Customer-Care-Quality-Assurance-Associate-III_JR29120)** — ¤43,932 – ¤64,894 USD _(posted 2025-06-26)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bqklosjijtqkmxnsehvz.webp" width="24" height="24" alt="Cresta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cresta](https://jobo.world/company/Cresta)
-
-* **[Principal Solutions Engineer, West](https://boards.greenhouse.io/cresta/jobs/4576065008)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
@@ -104,6 +105,10 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[QA Engineer (Contract)](https://jobs.ashbyhq.com/expa/850d19c9-e3ef-4c2a-8a4c-b7ece04039fe)** — ¤62,400 – ¤83,200 USD _(posted 2025-07-16)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
+
+* **[Senior Software Design Engineer in Test (Remote)](https://jobs.smartrecruiters.com/Experian/744000073380033-senior-software-design-engineer-in-test-remote-)** — _n/a_ _(posted 2025-07-29)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/blrrrlifvpvgclib0vha.webp" width="24" height="24" alt="Fictiv logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fictiv](https://jobo.world/company/Fictiv)
 
 * **[Supplier Quality Engineer (San Jose, CA Bay Area)](https://job-boards.greenhouse.io/fictiv/jobs/8093277002)** — _n/a_ _(posted 2025-07-26)_
@@ -111,7 +116,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
-* **[Senior NPI Engineer ](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fbc5fb252-8fe5-4d5d-b85a-af8a7de33c4d)** — ¤101,600 – ¤139,700 USD _(posted 2025-07-22)_
 * **[UAS Flight Test Engineer](https://jobs.ashbyhq.com%2Fflock%2520safety%2F7e4f5706-8d3e-4b80-bd71-53a35bcb9bce)** — ¤70,800 – ¤97,400 USD _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
@@ -131,6 +135,10 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
 
 * **[Systems Quality and Reliability Lead](https://job-boards.greenhouse.io/groq/jobs/6505634003)** — _n/a_ _(posted 2025-05-21)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vvbhenfduy7yertm4eqk.webp" width="24" height="24" alt="Hometap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hometap](https://jobo.world/company/Hometap)
+
+* **[Senior QA Engineer](https://job-boards.greenhouse.io/hometap/jobs/4803516007)** — _n/a_ _(posted 2025-07-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qojajlybelziqnn3mgv5.webp" width="24" height="24" alt="Hudl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hudl](https://jobo.world/company/Hudl)
 
@@ -236,10 +244,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[QA Engineer](https://boards.greenhouse.io/shift5/jobs/5154218004)** — _n/a_ _(posted 2025-04-19)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
-
-* **[DevOps / QA Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/afc8a0dd-0156-4d05-bfd0-0007a5bcfd00)** — _n/a_ _(posted 2025-06-26)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ztchjewjetxet4seourr.webp" width="24" height="24" alt="Solace Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solace Health](https://jobo.world/company/Solace-Health)
 
 * **[Manager of Clinical Quality](https://jobs.ashbyhq.com/solace/ab6afafe-06eb-4f75-b411-81f3bab6e9f9)** — _n/a_ _(posted 2025-07-22)_
@@ -282,9 +286,5 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 * **[Director, Quality Engineering](https://jobs.lever.co/workwave/30c4c708-e504-4726-b8a3-7b480d29c389)** — _n/a_ _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5ievlzhomaaypnfpl0z.webp" width="24" height="24" alt="Writer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Writer](https://jobo.world/company/Writer)
-
-* **[Clinical QA analyst (contract) ](https://jobs.ashbyhq.com/writer/28a957fc-4ee9-414e-b5e4-601ae9dd29fe)** — _n/a_ _(posted 2025-06-25)_
-
 ---
-_Updated automatically — 2025-07-30_
+_Updated automatically — 2025-07-31_
