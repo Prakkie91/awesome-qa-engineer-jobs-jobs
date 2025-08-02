@@ -50,7 +50,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Physician Advisory Services QA Specialist](https://apply.workable.com/dane-street-llc/j/E52C8F6460/)** — _n/a_ _(posted 2025-05-20)_
 * **[Physician Advisory Services QA Specialist - Night Shift](https://apply.workable.com/dane-street-llc/j/EFEE017E43/)** — _n/a_ _(posted 2025-05-09)_
 * **[PRN Physician Advisory Services QA Specialist](https://apply.workable.com/dane-street-llc/j/5172150042/)** — _n/a_ _(posted 2025-04-08)_
-* **[Group Health Medical Director](https://apply.workable.com/dane-street-llc/j/88C48658B6/)** — _n/a_ _(posted 2025-02-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
 
@@ -94,6 +93,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
 
+* **[Senior Software QA Test Engineer](https://jobs.smartrecruiters.com/Experian/744000073831995-senior-software-qa-test-engineer)** — _n/a_ _(posted 2025-07-31)_
 * **[Senior Software Design Engineer in Test (Remote)](https://jobs.smartrecruiters.com/Experian/744000073380033-senior-software-design-engineer-in-test-remote-)** — _n/a_ _(posted 2025-07-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/blrrrlifvpvgclib0vha.webp" width="24" height="24" alt="Fictiv logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fictiv](https://jobo.world/company/Fictiv)
@@ -103,6 +103,7 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
+* **[Staff Embedded Systems Test Engineer](https://jobs.ashbyhq.com/flock%20safety/df3cae90-fe04-4bed-b5c2-d06b95f4e059)** — ¤200,000 – ¤220,000 USD _(posted 2025-08-01)_
 * **[UAS Flight Test Engineer](https://jobs.ashbyhq.com%2Fflock%2520safety%2F7e4f5706-8d3e-4b80-bd71-53a35bcb9bce)** — ¤70,800 – ¤97,400 USD _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
@@ -268,7 +269,6 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
-* **[Fullstack Senior Software Engineer, Test Experience](https://jobs.ashbyhq.com/vanta/295fdbe4-a6cf-4f93-a170-555c8b77f352)** — ¤179,000 – ¤211,000 USD _(posted 2025-07-09)_
 * **[Backend Senior Software Engineer, Test Experience](https://jobs.ashbyhq.com/vanta/ef407939-b6fd-46aa-8b14-e6cf0c805579)** — ¤179,000 – ¤211,000 USD _(posted 2025-06-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
@@ -284,4 +284,4 @@ Browse a wide range of remote QA Engineer positions available globally. New jobs
 * **[Director, Quality Engineering](https://jobs.lever.co/workwave/30c4c708-e504-4726-b8a3-7b480d29c389)** — _n/a_ _(posted 2025-06-06)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
